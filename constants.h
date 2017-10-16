@@ -12,7 +12,7 @@
 ! ALSO CHANGE FILE precision.h ACCORDINGLY
 !
   integer, parameter :: SIZE_REAL = 4
-  integer, parameter :: SIZE_DOUBLE = 8
+  real, parameter :: SIZE_DOUBLE = 8
 
 
 ! set to SIZE_REAL to run in single precision
